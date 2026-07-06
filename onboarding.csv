@@ -1,0 +1,4 @@
+Batch Name,Total Records,Successful,Failed,Duplicates,Status,Upload Date
+"Bulk Upload - Mar 2026 - IITB",32,22,7,3,"Completed","2026-05-29 09:42:19"
+"Bulk Upload - Jan 2026 - IITB",20,19,0,1,"Failed","2026-05-20 09:42:19"
+"Bulk Upload - Feb 2026 - IITB",39,37,0,2,"Processing","2026-04-30 09:42:19"
