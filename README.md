@@ -1,7 +1,5 @@
 # 📊 Recruiter Command Center
 
-## Task 19 · Bulk Onboarding & Recruiter Views
-
 A complete full-stack **Recruiter Command Center** designed for college placement officers and recruiters to track bulk student onboarding, recruiter performance, hiring analytics, job outcomes, and data quality.
 
 The dashboard uses persisted SQLite data and provides decision-grade analytics with strict college-level data isolation.
@@ -732,6 +730,3 @@ npm start
 This project is developed for educational and internship evaluation purposes.
 
 ---
-
-
-**Task 19 · Recruiter Dashboards — Finalized and Demoable**
